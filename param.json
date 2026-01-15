@@ -1,0 +1,18 @@
+[
+  {
+    "p_rel_url" : "PrashobVP/Azure_ETL_Pipeline_Olympics_Data/refs/heads/master/athletes.csv",
+    "p_folder"  : "athletes",
+    "p_file"    : "athletes.parquet"
+    
+  },
+  {
+    "p_rel_url" : "PrashobVP/Azure_ETL_Pipeline_Olympics_Data/refs/heads/master/coaches.csv",
+    "p_folder"  : "coaches",
+    "p_file"    : "coaches.parquet"
+  },
+  {
+    "p_rel_url" : "PrashobVP/Azure_ETL_Pipeline_Olympics_Data/refs/heads/master/events.csv",
+    "p_folder"  : "events",
+    "p_file"    : "events.parquet"
+  }
+]
